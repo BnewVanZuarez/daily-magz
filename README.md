@@ -1,3 +1,2 @@
 # daily-magz
-Sebuah media pembelajaran menggunakan API dari NewsApi.org
-Dibangun menggunakan Framework Bootstrap
+Sebuah media pembelajaran menggunakan API dari NewsApi.org dan Dibangun menggunakan Framework Bootstrap
